@@ -1,1 +1,3 @@
 Adding stuff!
+
+Making some noise in file2
